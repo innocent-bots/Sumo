@@ -94,7 +94,7 @@ START_IMG_URL = ["https://ibb.co/WWkKx89c",
                  "https://ibb.co/WWkKx89c"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://ibb.co/zVgT2N6P"
+    "PING_IMG_URL", "https://ibb.co/0L8xdRC"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/jk6l11.jpg"
