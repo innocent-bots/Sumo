@@ -99,7 +99,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 
 ✨ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sʜᴀʀᴇ ᴀɴᴅ ᴇɴᴊᴏʏ! ✨
 
-💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➤ @MusiclineTechTeam 🎶
+💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➤ @GenZxBots 🎶
 ♡゙
 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▰""",  
             reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(f"⦿ ᴀᴅᴅ ᴍᴇ ⦿", url=f"https://t.me/Sumomusic_bot?startgroup=true")]])
@@ -129,6 +129,6 @@ async def bot_wel(_, message):
 
 ✨ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sʜᴀʀᴇ ᴀɴᴅ ᴇɴᴊᴏʏ! ✨
 
-💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➤ @MusiclineTechTeam 🎶
+💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➤ @GenZxBots 🎶
 ♡゙
 ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▰""")
