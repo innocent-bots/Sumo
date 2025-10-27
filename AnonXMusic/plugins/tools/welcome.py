@@ -97,7 +97,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 🆔 ᴜsᴇʀ ɪᴅ ➤  {user.id}
 🏠 ɢʀᴏᴜᴘ ➤ {member.chat.title}
 
-✨ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sʜᴀʀᴇ ᴀɴᴅ ᴇɴᴊᴏʏ! ✨
+🎉 𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ 𝐓ʜᴇ 𝐅ᴀᴍɪʟʏ! ✨
 
 💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➤ @GenZxBots 🎶
 ♡゙
@@ -127,7 +127,7 @@ async def bot_wel(_, message):
 🆔 ᴜsᴇʀ ɪᴅ ➤  {user.id}
 🏠 ɢʀᴏᴜᴘ ➤ {member.chat.title}
 
-✨ ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sʜᴀʀᴇ ᴀɴᴅ ᴇɴᴊᴏʏ! ✨
+🎉 𝐖ᴇʟᴄᴏᴍᴇ 𝐓ᴏ 𝐓ʜᴇ 𝐅ᴀᴍɪʟʏ! ✨ 
 
 💝 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ➤ @GenZxBots 🎶
 ♡゙
